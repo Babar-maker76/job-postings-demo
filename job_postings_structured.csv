@@ -1,39 +1,51 @@
-FileName,JobTitle,Department,Location,JobType,SalaryRange,Experience,Skills,Education
-JOB-0001_Senior_Data_Analyst.pdf,Senior Data Analyst,Data & Analytics,Remote,Full Time,"PKR 180,000 – 220,000",3+ years in data analytics,"Power BI, SQL, Excel","Bachelor's in Computer Science, PMP Certification"
-JOB-0002_Human_Resources_Manager.pdf,Human Resources Manager,Human Resources,"Lahore, Pakistan / Hybrid",Full Time,"PKR 200,000 – 250,000",7+ years in HR leadership,"HRIS, Talent Management, Employee Engagement",Master's in HR Management
-JOB-0003_Finance_Officer.pdf,Finance Officer,Finance,"Karachi, Pakistan",Full Time,"PKR 150,000 – 180,000",3+ years in finance,"QuickBooks, MS Excel, Financial Analysis",Bachelor's in Finance or Accounting
-JOB-0004_IT_Support_Specialist.pdf,IT Support Specialist,IT,"Islamabad, Pakistan",Full Time,"PKR 120,000 – 150,000",2+ years in IT support,"Windows Server, Networking, Help Desk",Bachelor's in Computer Science
-JOB-0005_Marketing_Coordinator.pdf,Marketing Coordinator,Marketing,Remote,Full Time,"PKR 130,000 – 160,000",3+ years in marketing,"Digital Marketing, Content Creation, Social Media",Bachelor's in Marketing
-JOB-0006_Senior_Software_Engineer.pdf,Senior Software Engineer,Technology,"Lahore, Pakistan / Hybrid",Full Time,"PKR 250,000 – 300,000",5+ years in software development,"Python, JavaScript, REST APIs",Bachelor's in Computer Science
-JOB-0007_Project_Manager.pdf,Project Manager,PMO,"Karachi, Pakistan",Full Time,"PKR 220,000 – 270,000",5+ years managing projects,"Project Management, Agile, MS Project","PMP Certification, Bachelor's Degree"
-JOB-0008_Customer_Support_Lead.pdf,Customer Support Lead,Customer Service,"Lahore, Pakistan",Full Time,"PKR 140,000 – 170,000",4+ years in customer support,"Customer Service, CRM, Team Leadership",Bachelor's Degree
-JOB-0009_Procurement_Specialist.pdf,Procurement Specialist,Procurement,"Karachi, Pakistan",Full Time,"PKR 160,000 – 190,000",3+ years in procurement,"Procurement, Negotiation, Inventory Management",Bachelor's in Supply Chain
-JOB-0010_QA_Engineer.pdf,QA Engineer,Technology,"Islamabad, Pakistan",Full Time,"PKR 140,000 – 170,000",3+ years in QA,"Software Testing, Selenium, JIRA",Bachelor's in Computer Science
-JOB-0011_Business_Development_Manager.pdf,Business Development Manager,Sales,"Karachi, Pakistan",Full Time,"PKR 180,000 – 230,000",5+ years in business development,"Sales Strategy, Negotiation, CRM",Bachelor's in Business Administration
-JOB-0012_Graphic_Designer.pdf,Graphic Designer,Creative,"Lahore, Pakistan",Full Time,"PKR 120,000 – 160,000",3+ years in design,"Adobe Creative Suite, Illustration, Branding",Bachelor's in Graphic Design
-JOB-0013_Content_Writer.pdf,Content Writer,Marketing,Remote,Full Time,"PKR 110,000 – 140,000",2+ years writing experience,"Content Writing, SEO, Editing",Bachelor's in English or Communications
-JOB-0014_Operations_Manager.pdf,Operations Manager,Operations,"Islamabad, Pakistan",Full Time,"PKR 200,000 – 250,000",6+ years in operations,"Operations Management, Process Improvement, Leadership",Bachelor's Degree
-JOB-0015_Recruitment_Specialist.pdf,Recruitment Specialist,Human Resources,"Karachi, Pakistan",Full Time,"PKR 130,000 – 160,000",3+ years recruiting experience,"Talent Acquisition, ATS, Interviewing",Bachelor's in HR
-JOB-0016_Data_Engineer.pdf,Data Engineer,Data & Analytics,"Lahore, Pakistan",Full Time,"PKR 220,000 – 280,000",4+ years data engineering,"SQL, ETL, Python",Bachelor's in Computer Science
-JOB-0017_Administrative_Assistant.pdf,Administrative Assistant,Administration,"Islamabad, Pakistan",Full Time,"PKR 100,000 – 130,000",2+ years in administration,"Administration, MS Office, Scheduling",Bachelor's Degree
-JOB-0018_Digital_Marketing_Specialist.pdf,Digital Marketing Specialist,Marketing,"Karachi, Pakistan",Full Time,"PKR 150,000 – 180,000",3+ years in digital marketing,"SEO, Google Ads, Analytics",Bachelor's in Marketing
-JOB-0019_Legal_Advisor.pdf,Legal Advisor,Legal,"Lahore, Pakistan",Full Time,"PKR 200,000 – 250,000",5+ years legal experience,"Legal Research, Contract Law, Compliance",LLB Degree
-JOB-0020_Training_Coordinator.pdf,Training Coordinator,Learning & Development,"Islamabad, Pakistan",Full Time,"PKR 130,000 – 160,000",3+ years in training,"Training, Learning Management Systems, Communication",Bachelor's in HR or Education
-JOB-0021_Payroll_Specialist.pdf,Payroll Specialist,Finance,"Karachi, Pakistan",Full Time,"PKR 140,000 – 170,000",3+ years payroll experience,"Payroll, MS Excel, Compliance",Bachelor's in Finance
-JOB-0022_Network_Administrator.pdf,Network Administrator,IT,"Lahore, Pakistan",Full Time,"PKR 180,000 – 220,000",4+ years network administration,"Networking, Cisco, Firewall Management",Bachelor's in Computer Science
-JOB-0023_Executive_Assistant.pdf,Executive Assistant,Executive Office,"Islamabad, Pakistan",Full Time,"PKR 130,000 – 160,000",3+ years in executive assistance,"Executive Support, MS Office, Communication",Bachelor's Degree
-JOB-0024_Product_Manager.pdf,Product Manager,Product Development,"Karachi, Pakistan",Full Time,"PKR 220,000 – 270,000",5+ years product management,"Product Management, Agile, Market Research",Bachelor's in Business or Engineering
-JOB-0025_Logistics_Coordinator.pdf,Logistics Coordinator,Supply Chain,"Lahore, Pakistan",Full Time,"PKR 140,000 – 170,000",3+ years in logistics,"Logistics, Inventory Management, ERP",Bachelor's in Supply Chain
-JOB-0026_Systems_Analyst.pdf,Systems Analyst,Technology,"Islamabad, Pakistan",Full Time,"PKR 190,000 – 230,000",4+ years systems analysis,"Systems Analysis, SQL, Business Process Mapping",Bachelor's in Computer Science
-JOB-0027_Customer_Success_Manager.pdf,Customer Success Manager,Customer Success,"Karachi, Pakistan",Full Time,"PKR 160,000 – 200,000",4+ years customer success,"Customer Success, CRM, Account Management",Bachelor's in Business
-JOB-0028_Public_Relations_Specialist.pdf,Public Relations Specialist,PR,"Lahore, Pakistan",Full Time,"PKR 140,000 – 180,000",3+ years in PR,"Public Relations, Media Outreach, Content Writing",Bachelor's in Communications
-JOB-0029_Compliance_Officer.pdf,Compliance Officer,Compliance,"Islamabad, Pakistan",Full Time,"PKR 180,000 – 220,000",5+ years compliance experience,"Compliance, Risk Management, Policy Development",Bachelor's in Law or Business
-JOB-0030_Sales_Executive.pdf,Sales Executive,Sales,"Karachi, Pakistan",Full Time,"PKR 130,000 – 160,000",3+ years sales experience,"Sales, Negotiation, Customer Service",Bachelor's in Business
-JOB-0031_Data_Privacy_Officer.pdf,Data Privacy Officer,Compliance,"Lahore, Pakistan",Full Time,"PKR 190,000 – 230,000",5+ years in data privacy,"Data Privacy, GDPR, Policy Development",Bachelor's in Law or IT
-JOB-0032_Social_Media_Manager.pdf,Social Media Manager,Marketing,"Karachi, Pakistan",Full Time,"PKR 140,000 – 180,000",3+ years social media experience,"Social Media, Content Creation, Analytics",Bachelor's in Marketing
-JOB-0033_Internal_Auditor.pdf,Internal Auditor,Finance,"Islamabad, Pakistan",Full Time,"PKR 180,000 – 220,000",4+ years audit experience,"Internal Audit, Risk Assessment, Reporting",Bachelor's in Accounting
-JOB-0034_UX_Designer.pdf,UX Designer,Technology,"Lahore, Pakistan",Full Time,"PKR 150,000 – 190,000",3+ years UX experience,"UX Design, Figma, User Research",Bachelor's in Design or HCI
-JOB-0035_Legal_Compliance_Manager.pdf,Legal Compliance Manager,Legal,"Karachi, Pakistan",Full Time,"PKR 210,000 – 260,000",6+ years compliance experience,"Legal Compliance, Policy Development, Regulatory Affairs",LLB Degree
-JOB-0036_E-commerce_Manager.pdf,E-commerce Manager,E-commerce,"Lahore, Pakistan",Full Time,"PKR 170,000 – 210,000",4+ years e-commerce experience,"Ecommerce, SEO, Digital Marketing",Bachelor's in Business or Marketing
-JOB-0037_Facilities_Manager.pdf,Facilities Manager,Facilities,"Islamabad, Pakistan",Full Time,"PKR 160,000 – 200,000",5+ years facilities management,"Facilities Management, Budgeting, Health & Safety",Bachelor's Degree
-JOB-0038_Chief_Accountant.pdf,Chief Accountant,Finance,"Karachi, Pakistan",Full Time,"PKR 220,000 – 270,000",7+ years accounting experience,"Accounting, Taxation, Financial Reporting",ACCA or CA Qualification
+JobID,JobTitle,Department,Location,Status,DatePosted,ApplicationDeadline
+J001,Customer Support Lead,Engineering,Quetta,Open,2025-05-31,2025-06-18
+J002,Senior Data Analyst,Analytics,Quetta,Open,2025-06-04,2025-06-22
+J003,HR Manager,Human Resources,Karachi,Closed,2025-05-06,2025-06-05
+J004,Customer Support Lead,Operations,Islamabad,Open,2025-05-16,2025-06-27
+J005,Marketing Coordinator,Project Management,Karachi,Closed,2025-05-01,2025-06-01
+J006,Marketing Coordinator,Quality Assurance,Quetta,Open,2025-05-22,2025-06-21
+J007,Marketing Coordinator,Engineering,Peshawar,Open,2025-05-16,2025-06-23
+J008,Customer Support Lead,Project Management,Lahore,Open,2025-06-01,2025-06-27
+J009,Senior Data Analyst,Marketing,Quetta,Closed,2025-05-21,2025-06-25
+J010,Procurement Specialist,Procurement,Islamabad,Closed,2025-06-14,2025-06-30
+J011,Marketing Coordinator,Finance,Islamabad,Open,2025-05-29,2025-07-11
+J012,Customer Support Lead,Engineering,Lahore,Closed,2025-06-15,2025-07-24
+J013,Senior Data Analyst,Procurement,Karachi,Closed,2025-05-05,2025-06-14
+J014,Senior Data Analyst,Procurement,Karachi,Closed,2025-05-07,2025-06-10
+J015,Finance Officer,IT,Peshawar,Closed,2025-06-29,2025-07-15
+J016,HR Manager,Project Management,Karachi,Open,2025-05-30,2025-06-17
+J017,Marketing Coordinator,Marketing,Lahore,Open,2025-05-28,2025-06-20
+J018,Content Writer,Procurement,Peshawar,Open,2025-06-05,2025-06-24
+J019,Finance Officer,Support,Islamabad,Open,2025-06-25,2025-07-18
+J020,Procurement Specialist,Engineering,Karachi,Open,2025-06-03,2025-07-10
+J021,Senior Data Analyst,Finance,Peshawar,Closed,2025-05-31,2025-07-07
+J022,IT Support Specialist,Marketing,Lahore,Open,2025-06-04,2025-07-19
+J023,HR Manager,Analytics,Lahore,Open,2025-06-25,2025-08-06
+J024,Operations Manager,Support,Peshawar,Open,2025-06-04,2025-07-05
+J025,Senior Software Engineer,Marketing,Quetta,Closed,2025-06-27,2025-08-01
+J026,Content Writer,Engineering,Lahore,Closed,2025-05-12,2025-06-04
+J027,QA Engineer,Analytics,Lahore,Open,2025-05-31,2025-07-02
+J028,Content Writer,Quality Assurance,Peshawar,Open,2025-05-31,2025-06-17
+J029,Senior Data Analyst,Procurement,Lahore,Closed,2025-05-08,2025-06-21
+J030,Marketing Coordinator,Quality Assurance,Peshawar,Open,2025-05-11,2025-06-02
+J031,Project Manager,Human Resources,Quetta,Closed,2025-06-28,2025-07-14
+J032,Operations Manager,Operations,Karachi,Closed,2025-05-08,2025-06-04
+J033,Procurement Specialist,Human Resources,Quetta,Closed,2025-05-26,2025-06-11
+J034,Senior Software Engineer,Support,Quetta,Closed,2025-05-27,2025-06-16
+J035,Operations Manager,Human Resources,Quetta,Open,2025-05-17,2025-06-11
+J036,Finance Officer,Human Resources,Peshawar,Open,2025-06-23,2025-07-31
+J037,Senior Data Analyst,Analytics,Karachi,Closed,2025-06-03,2025-07-16
+J038,Senior Software Engineer,Human Resources,Peshawar,Open,2025-05-30,2025-06-18
+J039,Operations Manager,Human Resources,Karachi,Closed,2025-05-05,2025-06-16
+J040,QA Engineer,Operations,Islamabad,Closed,2025-05-29,2025-07-06
+J041,HR Manager,Support,Quetta,Closed,2025-05-21,2025-06-05
+J042,Procurement Specialist,Support,Lahore,Closed,2025-05-25,2025-06-25
+J043,Project Manager,Human Resources,Islamabad,Open,2025-06-12,2025-07-21
+J044,IT Support Specialist,Engineering,Peshawar,Open,2025-05-09,2025-06-08
+J045,Operations Manager,Project Management,Quetta,Closed,2025-06-25,2025-07-17
+J046,Procurement Specialist,Analytics,Karachi,Closed,2025-05-28,2025-06-16
+J047,Content Writer,Procurement,Karachi,Open,2025-06-08,2025-07-20
+J048,Procurement Specialist,Operations,Peshawar,Open,2025-06-18,2025-07-14
+J049,HR Manager,Quality Assurance,Lahore,Open,2025-05-26,2025-06-27
+J050,Procurement Specialist,Engineering,Peshawar,Open,2025-05-12,2025-05-27
