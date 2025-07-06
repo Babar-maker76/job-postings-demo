@@ -38,9 +38,7 @@ This project demonstrates how to:
 
 ![Process Flow](./process_flow.png)
 
-
 ---
-![Process Flow](./WorkFlow.svg)
 ## 📁 Repository Contents
 
 | Folder/File | Description |
