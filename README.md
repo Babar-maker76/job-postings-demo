@@ -1,4 +1,4 @@
-# 📂 job-postings-demo
+# 📂 HR Recruitment Demo
 ## 📑 Table of Contents
 
 - [Professional HR Automation Demo](#-professional-hr-automation-demo)
@@ -11,7 +11,7 @@
 - [Contact](#-contact)
 
 
-# 🎯 Professional HR Automation Demo
+# 🎯 Professional HR Recruitment Automation Demo
 
 This repository showcases an end-to-end workflow for publishing, parsing, and managing job postings and candidate applications in a modern HR system.
 
