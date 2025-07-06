@@ -23,6 +23,12 @@ This project demonstrates how to:
 ✅ Capture and record interview scores in an Excel file (`Interview_Panel_Input.xlsx`).
 
 ---
+## 📊 Process Flow Diagram
+
+![Process Flow](./process_flow.png)
+
+
+---
 ![Process Flow](./WorkFlow.svg)
 ## 📁 Repository Contents
 
