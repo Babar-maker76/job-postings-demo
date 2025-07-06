@@ -1,4 +1,18 @@
 # 📂 job-postings-demo
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Process Flow Diagram](#process-flow-diagram)
+- [Repository Contents](#repository-contents)
+- [How to Use This Repository](#how-to-use-this-repository)
+  - [1️⃣ Download Job Postings PDFs](#1-download-job-postings-pdfs)
+  - [2️⃣ Download Candidate CVs](#2-download-candidate-cvs)
+  - [3️⃣ Download Parsed Candidate Text Files](#3-download-parsed-candidate-text-files)
+  - [4️⃣ Download or Edit the Interview Scores](#4-download-or-edit-the-interview-scores)
+  - [5️⃣ Run the Colab Notebook](#5-run-the-colab-notebook)
+- [Example Outputs](#example-outputs)
+- [Contact](#contact)
+
 
 # 🎯 Professional HR Automation Demo
 
