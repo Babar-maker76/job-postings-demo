@@ -23,59 +23,7 @@ This project demonstrates how to:
 ✅ Capture and record interview scores in an Excel file (`Interview_Panel_Input.xlsx`).
 
 ---
-## 📊 Process Flow Diagram
-
-## 📊 Process Flow Diagram
-
-<div align="center">
-<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="900" height="600" fill="#ffffff"/>
-  
-  <!-- Styles -->
-  <style>
-    .box { fill: #e0e7ff; stroke: #3730a3; stroke-width: 2; rx: 10; }
-    .arrow { stroke: #000; stroke-width: 2; marker-end: url(#arrowhead); }
-    .label { font-family: Arial, sans-serif; font-size: 14px; fill: #111827; }
-  </style>
-  
-  <!-- Arrowhead Definition -->
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#000"/>
-    </marker>
-  </defs>
-  
-  <!-- Boxes -->
-  <rect x="50" y="30" width="300" height="50" class="box"/>
-  <rect x="50" y="120" width="300" height="50" class="box"/>
-  <rect x="50" y="210" width="300" height="50" class="box"/>
-  <rect x="50" y="300" width="300" height="50" class="box"/>
-  <rect x="400" y="300" width="200" height="50" class="box"/>
-  <rect x="400" y="380" width="200" height="50" class="box"/>
-  <rect x="50" y="470" width="300" height="50" class="box"/>
-  
-  <!-- Labels -->
-  <text x="200" y="60" text-anchor="middle" class="label">Generate Job Postings PDFs</text>
-  <text x="200" y="150" text-anchor="middle" class="label">Generate Candidate CV PDFs</text>
-  <text x="200" y="240" text-anchor="middle" class="label">Store & Version Control (GitHub)</text>
-  <text x="200" y="330" text-anchor="middle" class="label">Parsing Scripts (Colab)</text>
-  <text x="500" y="330" text-anchor="middle" class="label">Raw Text Files</text>
-  <text x="500" y="410" text-anchor="middle" class="label">Structured CSV Files</text>
-  <text x="200" y="500" text-anchor="middle" class="label">Power BI Dashboards</text>
-  
-  <!-- Arrows -->
-  <line x1="200" y1="80" x2="200" y2="120" class="arrow"/>
-  <line x1="200" y1="170" x2="200" y2="210" class="arrow"/>
-  <line x1="200" y1="260" x2="200" y2="300" class="arrow"/>
-  <line x1="200" y1="350" x2="400" y2="350" class="arrow"/>
-  <line x1="500" y1="350" x2="500" y2="380" class="arrow"/>
-  <line x1="200" y1="350" x2="200" y2="470" class="arrow"/>
-</svg>
-</div>
-
-
-
+![Process Flow](./WorkFlow.svg)
 ## 📁 Repository Contents
 
 | Folder/File | Description |
