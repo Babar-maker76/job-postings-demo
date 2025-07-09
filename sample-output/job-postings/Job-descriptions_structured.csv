@@ -1,0 +1,154 @@
+FileName,JobID,JobTitle,Department,Location,Status,DatePosted,ApplicationDeadline,Education,Experience,Skills,Summary
+JD_001_Marketing_Coordinator.pdf,J001,Marketing Coordinator,Marketing,Quetta,Closed,2025-05-31,2025-06-17,Master's in Human Resource Management,5 years,- Project Management; - SQL; - Leadership; - Python Programming; - Excel; - Data Analysis,"The Marketing Coordinator role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_002_Customer_Support_Lead.pdf,J002,Customer Support Lead,Content,Lahore,Open,2025-06-06,2025-07-18,Master's in Finance,8 years,- Data Analysis; - Cloud Computing; - Project Management; - Python Programming; - SQL; - UX Design,"The Customer Support Lead role in Content is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_003_Senior_Data_Analyst.pdf,J003,Senior Data Analyst,Support,Lahore,Closed,2025-05-04,2025-05-20,Bachelor's in Computer Science,5 years,- Python Programming; - Communication; - Problem Solving; - Excel; - UX Design; - Project Management,"The Senior Data Analyst role in Support is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_004_Procurement_Specialist.pdf,J004,Procurement Specialist,Marketing,Peshawar,Closed,2025-05-13,2025-06-12,MBA,7 years,- Excel; - Cloud Computing; - Data Analysis; - Python Programming; - UX Design; - Problem Solving,"The Procurement Specialist role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_005_Procurement_Specialist.pdf,J005,Procurement Specialist,IT,Karachi,Closed,2025-06-07,2025-07-07,Bachelor's in Computer Science,5 years,- Customer Service; - Data Analysis; - Problem Solving; - Communication; - UX Design; - Project Management,"The Procurement Specialist role in IT is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_006_IT_Support_Specialist.pdf,J006,IT Support Specialist,IT,Islamabad,Open,2025-05-05,2025-06-18,Master's in Finance,3 years,- Customer Service; - SQL; - Python Programming; - Power BI; - Cloud Computing; - Leadership,"The IT Support Specialist role in IT is responsible for driving key initiatives and ensuring successful
+outcomes in Islamabad. This position requires a highly motivated professional with exceptional
+skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_007_Project_Manager.pdf,J007,Project Manager,Engineering,Karachi,Closed,2025-06-23,2025-07-25,Bachelor's in Business Administration,3 years,- Data Analysis; - Cloud Computing; - Problem Solving; - Power BI; - SQL; - UX Design,"The Project Manager role in Engineering is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_008_Senior_Data_Analyst.pdf,J008,Senior Data Analyst,Procurement,Quetta,Closed,2025-06-24,2025-08-01,Master's in Finance,10 years,- Project Management; - Cloud Computing; - Excel; - Customer Service; - Python Programming; - Power BI,"The Senior Data Analyst role in Procurement is responsible for driving key initiatives and ensuring
+successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_009_Project_Manager.pdf,J009,Project Manager,Marketing,Lahore,Open,2025-05-14,2025-06-03,Master's in Human Resource Management,8 years,- SQL; - Communication; - Power BI; - Python Programming; - Customer Service; - Data Analysis,"The Project Manager role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_010_Procurement_Specialist.pdf,J010,Procurement Specialist,Finance,Peshawar,Open,2025-05-19,2025-06-26,MBA,4 years,- SQL; - Power BI; - Project Management; - Problem Solving; - UX Design; - Excel,"The Procurement Specialist role in Finance is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_011_HR_Manager.pdf,J011,HR Manager,Project Management,Lahore,Closed,2025-05-09,2025-06-08,Bachelor's in Business Administration,8 years,- UX Design; - Data Analysis; - Leadership; - Excel; - Problem Solving; - Communication,"The HR Manager role in Project Management is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_012_Software_Engineer.pdf,J012,Software Engineer,Analytics,Lahore,Closed,2025-06-24,2025-07-11,Bachelor's in Marketing,5 years,- SQL; - UX Design; - Python Programming; - Problem Solving; - Customer Service; - Excel,"The Software Engineer role in Analytics is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_013_Project_Manager.pdf,J013,Project Manager,Finance,Karachi,Closed,2025-05-23,2025-06-09,Bachelor's in Business Administration,3 years,- Python Programming; - Problem Solving; - Customer Service; - Project Management; - Communication; - Leadership,"The Project Manager role in Finance is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_014_QA_Engineer.pdf,J014,QA Engineer,Operations,Quetta,Open,2025-06-10,2025-06-30,MBA,4 years,- Excel; - Python Programming; - SQL; - Project Management; - Problem Solving; - Communication,"The QA Engineer role in Operations is responsible for driving key initiatives and ensuring successful
+outcomes in Quetta. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_015_Software_Engineer.pdf,J015,Software Engineer,Human Resources,Lahore,Closed,2025-06-24,2025-07-13,Master's in Human Resource Management,9 years,- Excel; - Cloud Computing; - UX Design; - Data Analysis; - Customer Service; - Problem Solving,"The Software Engineer role in Human Resources is responsible for driving key initiatives and
+ensuring successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_016_Customer_Support_Lead.pdf,J016,Customer Support Lead,IT,Peshawar,Closed,2025-05-31,2025-06-20,Bachelor's in Computer Science,10 years,- Project Management; - SQL; - Power BI; - Data Analysis; - Leadership; - Python Programming,"The Customer Support Lead role in IT is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_017_Operations_Manager.pdf,J017,Operations Manager,Analytics,Islamabad,Open,2025-05-31,2025-07-10,MBA,6 years,- SQL; - Python Programming; - Communication; - Cloud Computing; - Problem Solving; - Power BI,"The Operations Manager role in Analytics is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_018_Finance_Officer.pdf,J018,Finance Officer,Marketing,Quetta,Open,2025-06-16,2025-07-29,Master's in Finance,7 years,- Project Management; - Data Analysis; - UX Design; - Problem Solving; - Python Programming; - Leadership,"The Finance Officer role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_019_Finance_Officer.pdf,J019,Finance Officer,Content,Islamabad,Closed,2025-05-12,2025-05-30,Bachelor's in Business Administration,4 years,- Excel; - SQL; - Customer Service; - Python Programming; - Power BI; - Leadership,"The Finance Officer role in Content is responsible for driving key initiatives and ensuring successful
+outcomes in Islamabad. This position requires a highly motivated professional with exceptional
+skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_020_Content_Writer.pdf,J020,Content Writer,Content,Lahore,Open,2025-06-07,2025-06-27,Master's in Finance,5 years,- SQL; - Project Management; - Python Programming; - Excel; - Cloud Computing; - Problem Solving,"The Content Writer role in Content is responsible for driving key initiatives and ensuring successful
+outcomes in Lahore. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_021_Procurement_Specialist.pdf,J021,Procurement Specialist,Engineering,Quetta,Open,2025-05-15,2025-06-27,Bachelor's in Computer Science,3 years,- Power BI; - Python Programming; - Cloud Computing; - SQL; - Problem Solving; - Data Analysis,"The Procurement Specialist role in Engineering is responsible for driving key initiatives and ensuring
+successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_022_Finance_Officer.pdf,J022,Finance Officer,Quality Assurance,Karachi,Open,2025-06-15,2025-07-18,Master's in Finance,9 years,- UX Design; - Power BI; - Cloud Computing; - Customer Service; - Python Programming; - Communication,"The Finance Officer role in Quality Assurance is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_023_Senior_Data_Analyst.pdf,J023,Senior Data Analyst,Procurement,Islamabad,Open,2025-06-04,2025-06-30,Master's in Human Resource Management,4 years,- Customer Service; - Cloud Computing; - Project Management; - Data Analysis; - Power BI; - UX Design,"The Senior Data Analyst role in Procurement is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_024_IT_Support_Specialist.pdf,J024,IT Support Specialist,Support,Lahore,Closed,2025-06-16,2025-07-28,Master's in Human Resource Management,10 years,- Problem Solving; - Project Management; - Python Programming; - Excel; - Data Analysis; - Cloud Computing,"The IT Support Specialist role in Support is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_025_HR_Manager.pdf,J025,HR Manager,Human Resources,Peshawar,Closed,2025-06-28,2025-07-17,MBA,10 years,- UX Design; - Leadership; - Communication; - Project Management; - Data Analysis; - Problem Solving,"The HR Manager role in Human Resources is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_026_Marketing_Coordinator.pdf,J026,Marketing Coordinator,Operations,Peshawar,Closed,2025-06-11,2025-07-09,Bachelor's in Marketing,10 years,- UX Design; - Project Management; - Python Programming; - Excel; - Communication; - Power BI,"The Marketing Coordinator role in Operations is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_027_Finance_Officer.pdf,J027,Finance Officer,Procurement,Islamabad,Closed,2025-06-15,2025-07-30,Master's in Human Resource Management,5 years,- UX Design; - Leadership; - Excel; - Cloud Computing; - Data Analysis; - Problem Solving,"The Finance Officer role in Procurement is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_028_Procurement_Specialist.pdf,J028,Procurement Specialist,Operations,Islamabad,Closed,2025-05-23,2025-06-30,MBA,2 years,- Python Programming; - Data Analysis; - Communication; - UX Design; - Leadership; - Cloud Computing,"The Procurement Specialist role in Operations is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_029_Project_Manager.pdf,J029,Project Manager,Analytics,Lahore,Closed,2025-05-31,2025-06-15,Master's in Finance,3 years,- Excel; - UX Design; - Leadership; - Problem Solving; - Python Programming; - Project Management,"The Project Manager role in Analytics is responsible for driving key initiatives and ensuring
+successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_030_Operations_Manager.pdf,J030,Operations Manager,Analytics,Islamabad,Open,2025-05-20,2025-06-10,Bachelor's in Computer Science,3 years,- Problem Solving; - Project Management; - Data Analysis; - Python Programming; - Leadership; - Customer Service,"The Operations Manager role in Analytics is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_031_Customer_Support_Lead.pdf,J031,Customer Support Lead,Quality Assurance,Peshawar,Open,2025-06-04,2025-07-07,Bachelor's in Marketing,8 years,- Communication; - Project Management; - Customer Service; - Python Programming; - Power BI; - Data Analysis,"The Customer Support Lead role in Quality Assurance is responsible for driving key initiatives and
+ensuring successful outcomes in Peshawar. This position requires a highly motivated professional
+with exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_032_Project_Manager.pdf,J032,Project Manager,Procurement,Islamabad,Open,2025-06-06,2025-07-16,MBA,7 years,- Problem Solving; - Excel; - UX Design; - Cloud Computing; - Power BI; - Customer Service,"The Project Manager role in Procurement is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_033_Marketing_Coordinator.pdf,J033,Marketing Coordinator,Support,Quetta,Closed,2025-05-11,2025-06-19,MBA,10 years,- Excel; - Cloud Computing; - Python Programming; - Data Analysis; - UX Design; - Power BI,"The Marketing Coordinator role in Support is responsible for driving key initiatives and ensuring
+successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_034_Operations_Manager.pdf,J034,Operations Manager,Quality Assurance,Quetta,Open,2025-05-28,2025-07-03,Bachelor's in Computer Science,8 years,- Data Analysis; - UX Design; - Python Programming; - SQL; - Communication; - Project Management,"The Operations Manager role in Quality Assurance is responsible for driving key initiatives and
+ensuring successful outcomes in Quetta. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_035_Content_Writer.pdf,J035,Content Writer,IT,Lahore,Closed,2025-05-29,2025-07-02,Master's in Finance,2 years,- SQL; - Project Management; - Problem Solving; - UX Design; - Communication; - Data Analysis,"The Content Writer role in IT is responsible for driving key initiatives and ensuring successful
+outcomes in Lahore. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_036_Operations_Manager.pdf,J036,Operations Manager,Project Management,Lahore,Closed,2025-05-04,2025-05-19,Bachelor's in Marketing,7 years,- Problem Solving; - Project Management; - Excel; - SQL; - Python Programming; - Customer Service,"The Operations Manager role in Project Management is responsible for driving key initiatives and
+ensuring successful outcomes in Lahore. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_037_Procurement_Specialist.pdf,J037,Procurement Specialist,Engineering,Karachi,Closed,2025-05-31,2025-06-21,Bachelor's in Marketing,8 years,- Power BI; - Problem Solving; - Project Management; - Customer Service; - Excel; - Data Analysis,"The Procurement Specialist role in Engineering is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_038_HR_Manager.pdf,J038,HR Manager,Operations,Quetta,Closed,2025-06-19,2025-08-02,Bachelor's in Marketing,3 years,- Problem Solving; - Excel; - Power BI; - Customer Service; - Data Analysis; - Communication,"The HR Manager role in Operations is responsible for driving key initiatives and ensuring successful
+outcomes in Quetta. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_039_Finance_Officer.pdf,J039,Finance Officer,Project Management,Karachi,Open,2025-05-14,2025-06-13,Bachelor's in Business Administration,3 years,- SQL; - Customer Service; - Excel; - Data Analysis; - Communication; - Cloud Computing,"The Finance Officer role in Project Management is responsible for driving key initiatives and
+ensuring successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_040_HR_Manager.pdf,J040,HR Manager,Content,Peshawar,Closed,2025-05-18,2025-06-21,Master's in Human Resource Management,4 years,- SQL; - Leadership; - Project Management; - Communication; - Cloud Computing; - Python Programming,"The HR Manager role in Content is responsible for driving key initiatives and ensuring successful
+outcomes in Peshawar. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_041_Content_Writer.pdf,J041,Content Writer,IT,Karachi,Closed,2025-06-17,2025-07-11,Bachelor's in Computer Science,9 years,- SQL; - Python Programming; - Project Management; - Cloud Computing; - UX Design; - Problem Solving,"The Content Writer role in IT is responsible for driving key initiatives and ensuring successful
+outcomes in Karachi. This position requires a highly motivated professional with exceptional skills,
+commitment to excellence, and the ability to work in dynamic environments."
+JD_042_Operations_Manager.pdf,J042,Operations Manager,Marketing,Islamabad,Open,2025-06-08,2025-06-30,Master's in Finance,4 years,- Project Management; - Cloud Computing; - Power BI; - Leadership; - UX Design; - Data Analysis,"The Operations Manager role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_043_Project_Manager.pdf,J043,Project Manager,IT,Islamabad,Closed,2025-06-07,2025-07-09,MBA,4 years,- Cloud Computing; - Communication; - Excel; - SQL; - Power BI; - Project Management,"The Project Manager role in IT is responsible for driving key initiatives and ensuring successful
+outcomes in Islamabad. This position requires a highly motivated professional with exceptional
+skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_044_Customer_Support_Lead.pdf,J044,Customer Support Lead,Operations,Islamabad,Closed,2025-05-06,2025-05-27,MBA,4 years,- Excel; - Project Management; - Problem Solving; - SQL; - Python Programming; - Communication,"The Customer Support Lead role in Operations is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_045_Senior_Data_Analyst.pdf,J045,Senior Data Analyst,Support,Peshawar,Closed,2025-06-25,2025-08-04,Bachelor's in Computer Science,8 years,- Python Programming; - Customer Service; - Data Analysis; - Communication; - Project Management; - Problem Solving,"The Senior Data Analyst role in Support is responsible for driving key initiatives and ensuring
+successful outcomes in Peshawar. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_046_Software_Engineer.pdf,J046,Software Engineer,Analytics,Karachi,Closed,2025-06-18,2025-07-16,Bachelor's in Business Administration,3 years,- Excel; - Problem Solving; - Cloud Computing; - UX Design; - SQL; - Data Analysis,"The Software Engineer role in Analytics is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_047_Finance_Officer.pdf,J047,Finance Officer,Marketing,Karachi,Open,2025-05-13,2025-06-25,Master's in Finance,3 years,- Problem Solving; - UX Design; - Communication; - SQL; - Cloud Computing; - Leadership,"The Finance Officer role in Marketing is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_048_Customer_Support_Lead.pdf,J048,Customer Support Lead,Operations,Islamabad,Closed,2025-05-08,2025-06-10,Bachelor's in Computer Science,4 years,- Python Programming; - Communication; - Power BI; - UX Design; - Data Analysis; - SQL,"The Customer Support Lead role in Operations is responsible for driving key initiatives and ensuring
+successful outcomes in Islamabad. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_049_QA_Engineer.pdf,J049,QA Engineer,Marketing,Islamabad,Open,2025-05-14,2025-06-07,Master's in Finance,5 years,- Data Analysis; - Communication; - Project Management; - Cloud Computing; - Power BI; - SQL,"The QA Engineer role in Marketing is responsible for driving key initiatives and ensuring successful
+outcomes in Islamabad. This position requires a highly motivated professional with exceptional
+skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_050_Senior_Data_Analyst.pdf,J050,Senior Data Analyst,Engineering,Karachi,Closed,2025-05-18,2025-06-10,Bachelor's in Computer Science,7 years,- Power BI; - Leadership; - Cloud Computing; - Customer Service; - SQL; - Problem Solving,"The Senior Data Analyst role in Engineering is responsible for driving key initiatives and ensuring
+successful outcomes in Karachi. This position requires a highly motivated professional with
+exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
+JD_051_Procurement_Specialist.pdf,J051,Procurement Specialist,Project Management,Islamabad,Open,2025-06-16,2025-07-15,Master's in Human Resource Management,7 years,- SQL; - Power BI; - Communication; - Leadership; - Project Management; - Problem Solving,"The Procurement Specialist role in Project Management is responsible for driving key initiatives and
+ensuring successful outcomes in Islamabad. This position requires a highly motivated professional
+with exceptional skills, commitment to excellence, and the ability to work in dynamic environments."
