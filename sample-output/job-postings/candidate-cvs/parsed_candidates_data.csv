@@ -1,4 +1,4 @@
-FileName,FullName,Email,Phone,DateOfBirth,AppliedPosition,Years of Experience,Education,CandidateID,Skills,Gender ,JobID
+FileName,FullName,Email,Phone,DateOfBirth,AppliedPosition,YearsOfExperience,Education,CandidateID,Skills,Gender ,JobID
 Candidate_019_Ali_Mirza.pdf,Ali Mirza,ali.mirza@example.com,-5318094,1/7/1987,MARKETING COORDINATOR,6,Bachelor's in Computer Science,Candidate_019,Excel;SQL;Power BI;Digital Marketing;Cloud Computing,Female,J001
 Candidate_095_Bilal_Ahmed.pdf,Bilal Ahmed,bilal.ahmed@example.com,-2329897,8/22/1980,MARKETING COORDINATOR,3,Bachelor's in Computer Science,Candidate_095,Power BI;HR Policies;SQL;Project Management;Cloud Computing,Male,J001
 Candidate_131_Omar_Sheikh.pdf,Omar Sheikh,omar.sheikh@example.com,-6677320,6/23/2000,MARKETING COORDINATOR,5,Bachelor's in Computer Science,Candidate_131,SQL;HR Policies;Python;Excel;Project Management,Male,J001
