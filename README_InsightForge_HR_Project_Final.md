@@ -125,7 +125,7 @@ For queries, collaboration, or integration support:
 **InsightForge – Babar Hayat**  
 📧 Email: sominiazi78@gmail.com  
 🔗 GitHub: [job-postings-demo](https://github.com/Babar-maker76/job-postings-demo)  
-🌐 LinkedIn: [linkedin.com/in/babarhayat](https://www.linkedin.com/in/babarhayat) _(optional if you want to include)_
+🌐 LinkedIn:(https://www.linkedin.com/in/babar-hayat-50582216a/)
 
 ---
 
