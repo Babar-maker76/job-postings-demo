@@ -1,156 +1,121 @@
-# 📂 HR Recruitment Demo
-## 📑 Table of Contents
+**📂 InsightForge | HR Recruitment Automation Demo**
 
-- [Professional HR Automation Demo](#-professional-hr-automation-demo)
-- [Process Flow Diagram](#-process-flow-diagram)
-- [Repository Contents](#-repository-contents)
-- [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
-- [How to Use This Repository](#-how-to-use-this-repository)
-- [🛠️ Running the Colab Notebook – Detailed Steps](#%EF%B8%8F-running-the-colab-notebook--detailed-steps)
-- [Example Outputs](#-example-outputs)
-- [Contact](#-contact)
+**Automated, scalable, and professional recruitment analytics from job posting to candidate selection.**
 
+📑 Table of Contents
+🎯 Project Overview
 
-# 🎯 Professional HR Recruitment Automation Demo
+📊 Process Flow Diagram
 
-This repository showcases an end-to-end workflow for publishing, parsing, and managing job postings and candidate applications in a modern HR system.
+📁 Repository Contents
 
----
+🛠️ Technologies Used
 
-## 🎯 Project Overview
+📝 How to Use This Repository
 
-This project demonstrates how to:
+🏃‍♂️ Running the Colab Notebook
 
-✅ Generate professional job posting PDFs ready for public distribution.
+📊 Example Outputs
 
-✅ Store and version control all job postings in a transparent, accessible repository.
+📫 Contact
 
-✅ Generate realistic candidate CV PDFs linked to each job.
+🎯 Project Overview
+This project demonstrates how to automate and visualize the full recruitment pipeline using Power BI, Python, and Google Sheets.
 
-✅ Automate parsing of structured data from PDFs using Google Colab and Python.
+Key Features:
 
-✅ Prepare cleaned data outputs (CSV, Excel, Google Sheets) ready for analysis in Power BI or other reporting tools.
+✅ Generate polished job posting PDFs
 
-✅ Capture and record interview scores in an Excel file (`Interview_Panel_Input.xlsx`).
+✅ Auto-generate candidate CVs with structured mock data
 
----
-## 📊 Process Flow Diagram
+✅ Parse job and candidate data using Google Colab + Python
 
-![Process Flow](./process_flow.png)
+✅ Store all data with GitHub version control
 
----
-## 📁 Repository Contents
+✅ Sync interview scores via Google Sheets
 
-| Folder/File | Description |
-|-------------|-------------|
-| `/job-postings` | 51 individual job posting PDFs (12 used in the demo) |
-| `/candidate-cvs` | 300 candidate CV PDFs linked to Job IDs |
-| `/parsed-candidate-texts` | Parsed raw text files of candidate CVs |
-| `/sample-output` | Example parsed CSV files |
-| `colab-parsing-notebook.ipynb` | Example Google Colab script for parsing PDFs into structured data |
-| `Interview_Panel_Input.xlsx` | Excel file to manually enter interview scores |
-| `README.md` | Project documentation |
+✅ Build live dashboards in Power BI (fully interactive)
 
----
+📊 Process Flow Diagram
 
-## 🛠️ Technologies Used
+📁 Repository Contents
+Folder/File	Description
+/job-postings	50+ job posting PDFs
+/CandidatesCVs	300+ candidate CVs mapped by Job ID
+/parsed-candidate-texts	Raw extracted text from CVs
+/sample-output	Parsed structured CSV files
+colab-parsing-notebook.ipynb	Colab script to parse PDFs to CSV
+Interview_Panel_Input.xlsx	Interview panel score entry sheet
+README.md	This documentation
 
-**Python** (`PyPDF2`, `pandas`) for PDF parsing
+🛠️ Technologies Used
+Python (PyPDF2, pandas) – PDF parsing
 
-**Google Colab** for free cloud-based workflows
+Google Colab – Free cloud environment
 
-**GitHub** for file hosting and version control
+GitHub – File storage & version control
 
-**Power BI** for data visualization (demo-ready)
+Power BI – Data visualization and automation
 
-**Dropbox / Google Drive** for storage and distribution
+Google Sheets – Manual interview input + sync
 
----
+Dropbox/Google Drive – Structured file storage
 
-## 📝 How to Use This Repository
+📝 How to Use This Repository
+📂 1️⃣ Download Job Postings
+Go to /job-postings, download individual PDFs or ZIP archive.
 
-📂 **1️⃣ Download Job Postings PDFs**
+📂 2️⃣ Download Candidate CVs
+Go to /CandidatesCVs, download CVs for parsing or audit.
 
-- Navigate to the `/job-postings` folder.
-- Download any individual PDF or the entire folder.
+📄 3️⃣ Edit Interview Scores
+Open Interview_Panel_Input.xlsx in Excel or Sheets, enter panel feedback.
 
-📂 **2️⃣ Download Candidate CVs**
+⚙️ 4️⃣ Run Parsing Notebook
+Open colab-parsing-notebook.ipynb in Google Colab to:
 
-- Navigate to `/candidate-cvs`.
-- Download individual files or all files as a ZIP.
+Parse PDFs
 
-📂 **3️⃣ Download Parsed Candidate Text Files**
+Export structured CSV
 
-- Navigate to `/parsed-candidate-texts`.
-- Review or use the raw extracted text data.
+Connect to Power BI
 
-📄 **4️⃣ Download or Edit the Interview Scores**
+🏃‍♂️ Running the Colab Notebook – Detailed Steps
+✅ Step 1: Install Dependencies
 
-- Open `Interview_Panel_Input.xlsx`.
-- Enter interview panel scores and save.
-
-⚙️ **5️⃣ Run the Colab Notebook**
-
-- Open `colab-parsing-notebook.ipynb` in [Google Colab](https://colab.research.google.com/).
-- Follow the instructions to:
-  - Parse PDFs
-  - Export data
-  - Connect to Power BI
-
----
-
-## 🏃‍♂️ Running the Colab Notebook – Detailed Steps
-
-### ✅ Step 1: Install Dependencies
-
-```python
+python
+Copy
+Edit
 !pip install PyPDF2 pandas
-```
+✅ Step 2: Mount Google Drive
 
-### ✅ Step 2: Mount Google Drive
-
-```python
+python
+Copy
+Edit
 from google.colab import drive
 drive.mount('/content/drive')
-```
+✅ Step 3: Parse PDFs
+Loop through files, extract text, structure rows.
 
-### ✅ Step 3: Load and Parse PDFs
+✅ Step 4: Export CSV
 
-Follow the code in the notebook to:
-
-- Loop through the PDFs
-- Extract text using `PyPDF2`
-- Clean and structure the output
-
-### ✅ Step 4: Export CSV
-
-```python
+python
+Copy
+Edit
 df.to_csv("parsed_candidates_data.csv", index=False)
-```
+✅ Step 5: Connect to Power BI
+Use Web connector or push to GitHub for refresh.
 
-### ✅ Step 5: Download or Move Outputs
+📊 Example Outputs
+Structured files:
 
-Download to your local machine or push to Google Sheets.
+job_descriptions_structured.csv
 
----
+parsed_candidates_data.csv
 
-## 📊 Example Outputs
+Built for direct use in Power BI dashboards.
 
-Example cleaned data:
-
-- `job_postings.csv`
-- `candidates.csv`
-
-These files are structured for real-time dashboards in Power BI.
-
----
-
-## 📫 Contact
-
-**Acme HR Solutions (Demo Project)**  
-💼 Email: sominiazi78@gmail.com
-
----
-
-✅ **Full documentation and project files:**  
-[https://github.com/Babar-maker76/job-postings-demo](https://github.com/Babar-maker76/job-postings-demo)
+📫 Contact
+InsightForge (Demo Project)
+📧 Email: sominiazi78@gmail.com
+🔗 GitHub: github.com/Babar-maker76/job-postings-demo
