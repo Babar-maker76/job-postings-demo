@@ -1,3 +1,4 @@
+![InsightForge Banner](https://raw.githubusercontent.com/Babar-maker76/job-postings-demo/main/screenshots/InsightForge_Banner_LinkedIn.png)
 
 # 📂 InsightForge | HR Recruitment Automation Demo
 
