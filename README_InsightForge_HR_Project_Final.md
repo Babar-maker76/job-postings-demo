@@ -126,6 +126,12 @@ For queries, collaboration, or integration support:
 📧 Email: sominiazi78@gmail.com  
 🔗 GitHub: [job-postings-demo](https://github.com/Babar-maker76/job-postings-demo)  
 🌐 LinkedIn:(https://www.linkedin.com/in/babar-hayat-50582216a/)
+## 💼 Hire Me on Upwork
+
+You can now order this project as a service on Upwork:
+
+🔗 [🔗 Order Now – InsightForge on Upwork](https://www.upwork.com/freelancers/~01f033a1a1aa53fe28?p=1945733170006990848)
+
 
 ---
 
